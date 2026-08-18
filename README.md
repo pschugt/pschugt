@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello there👋! 
 
-<!--
-**pschugt/pschugt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary></summary>
+  <img
+    src="./assets/general-kenobi.gif"
+    alt="General Grievous saying General Kenobi"
+    width="500"
+  />
+</details>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pschugt&label=Profile%20views&color=blueviolet" alt="gerardcl" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,astro,angular,html,swift,react,css,ts,git,githubactions,azure,github,jenkins,apple" />
+  </a>
+</p>
+
+
